@@ -1,6 +1,6 @@
 <!-- <img src="https://avatars.githubusercontent.com/u/181585218?v=4" width="70" align="left" />
 -->
-# JBluemchen80
+# 👾 JBluemchen80
 🎩 Hacker of aesthetics | 🐧 Penguinologist en Jefe | <img src="hyprlogo.svg" width="12" /> Hyprland Evangelist | <img src="Gentoo-logo-peach.svg" width="12" /> Neo-Gentooist
 
 🧠 Welcome to my chaotic digital lair. I rice cursors (for now, one has to start somewhere). I break stuff. I learn by fire.

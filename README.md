@@ -3,13 +3,13 @@
 # 👾 hyprcow 🐮
 🎩 Hacker of aesthetics | 🐧 Penguinologist en Jefe | <img src="hyprlogo.svg" width="12" /> Hyprland Evangelist | <img src="Gentoo-logo-peach.svg" width="12" /> Neo-Gentooist
 
-🧠 Welcome to my chaotic digital lair. I rice cursors (for now, one has to start somewhere). I break stuff. I learn by fire.
+🎃 Welcome to my chaotic digital lair. I rice cursors (for now, one has to start somewhere). I break stuff. I learn by fire.
 
 - 🧪 Currently building [Hyprland Logo Cursor Theme](https://github.com/hyprcow/hyprland_theme)
 - ✍️ Writing wild stuff at [Penguinology Blog](https://penguinology1.wordpress.com/)
-- 👽 Mugandis al-Linux: Seeker of forbidden dotfiles. Architect of digital ruminants.  
-Channeling the spirit of Dune’s Mentats, Alien’s Engineers, and Bash’s `$PS1`.  
-*Rebooting on the edge of /dev/null.*
+- 👽 Muhandis al-Linux: Seeker of forbidden dotfiles. Architect of digital ruminants.  
+Channeling the spirit of Dune’s Mentats, Alien’s Engineers and `$PS1`.  
+Vibrating on the edge of /dev/null.
 - 🧠 Masterplan: Make Gentoo Sexy Again™ & start a ricing revolution
 
 - 🐄 Star the [Hyprland Theme](https://github.com/hyprcow/hyprland_theme) repo if you vibe with the chaos
